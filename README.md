@@ -1,2 +1,2 @@
-# socislbook
+# socialbook
 social media website front-end.
